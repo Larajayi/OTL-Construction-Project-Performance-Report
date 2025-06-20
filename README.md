@@ -24,7 +24,7 @@ Analyze job cancellations to identify and address root causes.
 The data highlights opportunities for improved efficiency, reduced delays, and better sector performance. By standardizing project processes and enhancing communication, OTL can significantly improve its project outcomes and client satisfaction.
 
 📊 Explore the full Power BI report:
-OTL Project Performance Assessment Report (.pbix)
+https://github.com/Larajayi/OTL-Construction-Project-Performance-Report/blob/main/OTL%20%20Project%20Perfomance%20Assessment.pbix
 ![Screenshot OTL Performance analysis](https://github.com/user-attachments/assets/a0f88684-e18f-4b46-a4e5-a0c4fa861b65)
 ![Screenshot performance analysis](https://github.com/user-attachments/assets/3cedb7b2-7cb5-40b3-8e90-1b539dc5e86c)
 
